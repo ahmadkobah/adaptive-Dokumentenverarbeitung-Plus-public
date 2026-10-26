@@ -1,0 +1,7 @@
+# Secrets, dependencies and generated files
+.env
+__pycache__/
+*.pyc
+data/uploads/
+data/temp/
+logs/
